@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yogadwip/kopianget"
+    "url": "git+https://github.com/Yogadwip/kopianget.git"
   },
   "author": "",
   "license": "ISC",
